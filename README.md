@@ -20,7 +20,7 @@
 
 I'm a self-taught person who learn Front End Engineering with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 
-I love learning new techs and using new tools. I also love drinking Luwak White Coffee and Chocolatos Drink (coffe and chocolate drink in Indonesia) while coding.
+I love learning new techs and using new tools. I also love drinking Luwak White Coffee and Chocolatos Drink (instant coffee and drinking chocolate in Indonesia) while coding.
 
 <br />
 

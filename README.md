@@ -2,7 +2,7 @@
 
 <img width="100%" alt="Developer Illustration" src="gifs/Illustration2.gif"/>
 
-<p><small>Chill Mario illustration by <a href="https://www.behance.net/pixeljeff" target="_blank">Pixel Jeff</a></small></p>
+<p><small>Chill Mario by <a href="https://www.behance.net/pixeljeff" target="_blank">Pixel Jeff</a></small></p>
 
 <h2> Hi There, Welcome to my Github profile! <img src="./gifs/Hi.gif" width="30"></h2>
 <a href="https://linkedin.com/in/fadhilansyah25" target="_blank">

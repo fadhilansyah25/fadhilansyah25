@@ -13,7 +13,7 @@
 </a>
 <a href="https://instagram.com/fadhilansyah25" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+</a>RCTN-KS04-020
 
 <br />
 <br />
@@ -33,16 +33,16 @@ Ask me anything **[here](https://github.com/fadhilansyah25/fadhilansyah25/issues
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=fadhilansyah25&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=fadhilansyah25&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=30" alt="Fadil Ardiansyah Github Stats">
 
 <br />
 <br />
 
-**Sometimes the stats might not be accurate. I recommend seeing them [here](https://github-readme-stats.vercel.app/api?username=fadhilansyah25&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A)**
+**Sometimes the stats might not be accurate. I recommend seeing them [here](https://github-readme-stats.vercel.app/api?username=fadhilansyah25&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true&line_height=30)**
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhilansyah25&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhilansyah25&theme=tokyonight&langs_count=8" alt="Fadil Ardiansyah Top Languages"/>
 
 <br />
 

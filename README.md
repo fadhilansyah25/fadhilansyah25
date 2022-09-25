@@ -40,11 +40,11 @@ Ask me anything **[here](https://github.com/fadhilansyah25/fadhilansyah25/issues
 
 **Sometimes the stats might not be accurate. I recommend seeing them [here](https://github-readme-stats.vercel.app/api?username=fadhilansyah25&show_icons=true&theme=tokyonight&locale=en&count_private=true&include_all_commits=true&line_height=30)**
 
-<br />
+<!-- <br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhilansyah25&theme=tokyonight&langs_count=8" alt="Fadil Ardiansyah Top Languages"/>
 
-<br />
+<br /> -->
 
 **Happy Coding!** 😊
 

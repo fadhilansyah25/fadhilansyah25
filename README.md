@@ -18,7 +18,7 @@
 <br />
 <br />
 
-I'm a self-taught person who learn Front End Engineering with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a man who learn Front End Engineering with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 
 I love learning new techs and using new tools. I also love drinking Luwak White Coffee and Chocolatos Drink (instant coffee and drinking chocolate in Indonesia) while coding.
 
@@ -38,6 +38,11 @@ Ask me anything **[here](https://github.com/fadhilansyah25/fadhilansyah25/issues
 <br />
 <br />
 
+![Codewars](https://github.r2v.ch/codewars?user=fadhilansyah25&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
+<br />
+<br />
+
 **Sometimes the stats might not be accurate. I recommend seeing them [here](https://github-readme-stats.vercel.app/api?username=fadhilansyah25&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A)**
 
 <br />
@@ -52,7 +57,7 @@ Ask me anything **[here](https://github.com/fadhilansyah25/fadhilansyah25/issues
 
 <div align="center">
 
-# Tech Stack
+<!-- # Tech Stack
 
 <br />
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="./svgs/html.svg" alt="html"></a>
@@ -87,4 +92,4 @@ Ask me anything **[here](https://github.com/fadhilansyah25/fadhilansyah25/issues
 <a margin="10" href="https://www.mysql.com" target="_blank"><img margin="10px" height="40" src="./svgs/mysql.svg" alt="mysql"></a>
 <a margin="10" href="https://www.postgresql.org" target="_blank"><img margin="10px" height="40" src="./svgs/postgresql.svg" alt="postgresql"></a>
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="./svgs/express.svg" alt="express"></a>
-</div>
+</div> -->

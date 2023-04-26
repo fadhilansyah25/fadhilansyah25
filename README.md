@@ -2,16 +2,16 @@
 
 <img width="100%" alt="Developer Illustration" src="gifs/Illustration2.gif"/>
 
-<p><small>Chill Mario illustration by <a href="https://www.behance.net/pixeljeff" target="_blank">Pixel Jeff</a></small></p>
+<p><small>Chill Mario by <a href="https://www.behance.net/pixeljeff" target="_blank">Pixel Jeff</a></small></p>
 
 <h2> Hi There, Welcome to my Github profile! <img src="./gifs/Hi.gif" width="30"></h2>
 <a href="https://linkedin.com/in/fadhilansyah25" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/abdo_achhoubi" target="_blank">
+<a href="https://twitter.com/fadhilansyah25" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/abdo.achhoubi" target="_blank">
+<a href="https://instagram.com/fadhilansyah25" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
@@ -33,7 +33,7 @@ Ask me anything **[here](https://github.com/fadhilansyah25/fadhilansyah25/issues
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=fadhilansyah25&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=fadhilansyah25&show_icons=true&theme=tokyonight&include_all_commits=true&line_height=30" alt="Fadil Ardiansyah Github Stats">
 
 <br />
 <br />
@@ -45,11 +45,11 @@ Ask me anything **[here](https://github.com/fadhilansyah25/fadhilansyah25/issues
 
 **Sometimes the stats might not be accurate. I recommend seeing them [here](https://github-readme-stats.vercel.app/api?username=fadhilansyah25&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A)**
 
-<br />
+<!-- <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhilansyah25&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhilansyah25&theme=tokyonight&langs_count=8" alt="Fadil Ardiansyah Top Languages"/>
 
-<br />
+<br /> -->
 
 **Happy Coding!** 😊
 

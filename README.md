@@ -18,7 +18,7 @@
 <br />
 <br />
 
-Currently learn kotlin
+Currently learn golang, bun and nextjs
 
 <!-- I'm a man who learn Front End Engineering with 2+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 
